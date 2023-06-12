@@ -1,6 +1,6 @@
 # Ryzentosh
 
-This repository provides the EFI folder that I used to create a hackintosh (Ryzentosh) with an AMD Ryzen 5 3400G and an EX-A320M GAMING motherboard.
+This repository provides the EFI folder that I used to create a Hackintosh (Ryzentosh) with an AMD Ryzen 5 3400G and an EX-A320M GAMING Motherboard for MacOS Monterey.
 
 ## My Specs:
 
