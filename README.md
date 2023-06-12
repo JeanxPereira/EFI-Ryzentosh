@@ -17,6 +17,8 @@ This repository provides the EFI folder that I used to create a Hackintosh (Ryze
 - **Power Supply**: Corsair VS550 550W 80+
 - **Operating System**: Microsoft Windows 11 Pro
 
+**macOS version**: 13 \
+**OpenCore version**: 0.9.3
 
 ## Installation
 
