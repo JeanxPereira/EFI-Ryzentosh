@@ -27,9 +27,12 @@ This repository provides the EFI folder that I used to create a Hackintosh (Ryze
 
 1. Clone this repository.
 2. Mount your EFI partition.
-3. Backup any important data.
-4. Delete the old EFI folder and replace it with the one in this repository.
-5. Reboot and set your BIOS to boot from the EFI partition.
+3. Whatevergreen.kext must be enabled and NootedRed.kext disabled to installation part
+4. Backup any important data.
+5. Delete the old EFI folder and replace it with the one in this repository.
+6. Reboot and set your BIOS to boot from the EFI partition.
+7. Install the OS.
+8. Remove Whatevergreen.kext and enable NootedRed.kext.
 
 ## Disclaimer
 
